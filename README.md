@@ -1,6 +1,3 @@
-# DMPROJECT
-
-#MILESTONE-2
 ---
 title: Sentiment Analysis (Text)
 emoji: 🤗
