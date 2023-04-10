@@ -10,4 +10,4 @@ pinned: false
 
 ---
 
-https://huggingface.co/spaces/Hrithikka/sentiment-analysis
+
