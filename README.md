@@ -1,5 +1,5 @@
 # DMPROJECT
-MILESTONE-1
+#MILESTONE-1
 Installing WSL 2
 ->Opening Windows Command Prompt in administrator mode by right-clicking and selecting "Run as administrator",
 then entered the wsl --install command, then restarted my machine.
@@ -26,3 +26,6 @@ VS Code Remote Development
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/69045357/227835884-1d7cd72b-7bef-4eda-9848-7074f72502b8.png">
 
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/69045357/227835569-bb53c4ff-2e3e-42ea-843c-e4c44baace30.png">
+
+#MILESTONE-2
+https://huggingface.co/spaces/Hrithikka/sentiment-analysis
