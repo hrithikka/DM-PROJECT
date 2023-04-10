@@ -28,4 +28,15 @@ VS Code Remote Development
 <img width="608" alt="image" src="https://user-images.githubusercontent.com/69045357/227835569-bb53c4ff-2e3e-42ea-843c-e4c44baace30.png">
 
 #MILESTONE-2
+---
+title: Sentiment Analysis (Text)
+emoji: 🤗
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: 1.17.0
+app_file: app.py
+pinned: false
+---
+
 https://huggingface.co/spaces/Hrithikka/sentiment-analysis
