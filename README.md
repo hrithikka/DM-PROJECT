@@ -1,4 +1,3 @@
-#MILESTONE-2
-https://huggingface.co/spaces/Hrithikka/sentiment-analysis
+#MILESTONE-4
 
-url of the sentiment-analysis repository: https://github.com/hrithikka/sentiment-analysis
+
